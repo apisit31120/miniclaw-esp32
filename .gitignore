@@ -1,0 +1,20 @@
+# Build artifacts
+.pio/
+.vscode/
+*.o
+*.a
+*.elf
+*.bin
+*.hex
+
+# Secrets
+include/secrets.h
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+*.swp
+*.swo
+*~
