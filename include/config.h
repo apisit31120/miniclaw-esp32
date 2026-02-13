@@ -25,7 +25,7 @@
 #define KIMI_API_KEY "YOUR_KIMI_API_KEY"
 #endif
 #define KIMI_API_ENDPOINT "https://api.z.ai/v1/chat/completions"
-#define KIMI_MODEL "glm-4"
+#define KIMI_MODEL "zai/glm-4.5"
 #define KIMI_MAX_TOKENS 500
 #define KIMI_TIMEOUT_MS 30000
 

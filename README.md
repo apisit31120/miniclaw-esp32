@@ -5,7 +5,7 @@ ESP32-S3 based AI Assistant with Telegram integration and Kimi LLM support.
 ## ✨ Features
 
 - **🤖 Telegram Bot** - Chat with your ESP32 via Telegram
-- **🧠 Kimi LLM** - Powered by z.ai (GLM-4)
+- **🧠 Kimi LLM** - Powered by z.ai (GLM-4.5)
 - **📶 WiFi Manager** - Auto-connect with AP fallback
 - **🔌 GPIO Control** - Control pins via chat commands
 - **💾 PSRAM Support** - Utilize 8MB PSRAM on ESP32-S3
